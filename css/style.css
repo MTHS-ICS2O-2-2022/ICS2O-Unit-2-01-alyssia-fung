@@ -14,7 +14,8 @@
   padding-top: 16pt;
 }
 
-/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281*/
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281 */
+
 .mdl-ripple {
   background: #0000001a;
   opacity: 0.001;
